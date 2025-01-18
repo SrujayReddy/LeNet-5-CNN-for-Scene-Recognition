@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/miniplaces-lenet.git
-   cd miniplaces-lenet
+   git clone https://github.com/SrujayReddy/LeNet-5-CNN-for-Scene-Recognition.git
+   cd LeNet-5-CNN-for-Scene-Recognition
 
 ```
 
