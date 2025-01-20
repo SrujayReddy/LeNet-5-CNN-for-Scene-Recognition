@@ -28,7 +28,6 @@ Ensure you have the following installed:
    git clone https://github.com/SrujayReddy/LeNet-5-CNN-for-Scene-Recognition.git
    cd LeNet-5-CNN-for-Scene-Recognition
 
-```
 
 2.  Set up the Python environment:
     
